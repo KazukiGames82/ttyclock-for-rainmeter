@@ -1,5 +1,8 @@
 # Cool-Clock
+
+<h3 align="center">
 A beautiful clock based of Linux Clock, made it in Rainmeter.
+</h3>
 ![image](https://github.com/KazukiGames/Cool-Clock/assets/121910047/848592f4-2b61-4af1-a177-422feb1bc8ae)
 
 ## Credits - Plugins
