@@ -1,5 +1,3 @@
-# Cool-Clock
-
 <h3 align="center">
 A beautiful clock based of Linux, made it in Rainmeter.
 </h3>
